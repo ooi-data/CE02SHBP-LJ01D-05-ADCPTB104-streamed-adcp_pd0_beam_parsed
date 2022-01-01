@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_pd0_beam_parsed
-last_request: '2021-12-28T23:10:09.009090Z'
+last_request: '2022-01-01T02:10:24.151455Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_pd0_beam_parsed/main/history/response.json
-status: success
+status: pending
