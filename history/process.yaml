@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_pd0_beam_parsed
 data_stream: CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_pd0_beam_parsed
 end_date: '2015-12-02T15:38:20.098Z'
-last_updated: '2022-01-02T07:33:45.571049'
+last_updated: '2022-01-21T09:56:07.373780Z'
 start_date: '2014-09-25T18:10:07.730Z'
-status: success
+status: pending
