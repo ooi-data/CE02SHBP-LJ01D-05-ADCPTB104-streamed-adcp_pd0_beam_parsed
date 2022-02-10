@@ -2,4 +2,4 @@ data_ready: false
 data_stream: CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_pd0_beam_parsed
 last_request: '2022-02-07T19:37:25.613536Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-05-ADCPTB104-streamed-adcp_pd0_beam_parsed/main/history/response.json
-status: pending
+status: failed
